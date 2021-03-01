@@ -21,5 +21,5 @@ Click the Data tab at the top-left corner of the application. Then, expend Data 
 A selection template window pops up. Fill the Base Currency in Column 1 (e.g., USD), Underlying Currency in Column 4 (e.g., CAD) and Curve Date in Column 5 (e.g., 2/8/2018). All of them are in the last rown. Then click the Go button.
 
 You can find more details at
-https://finpricing.com/faq/fxCurve.html
+https://finpricing.com/faq.html
 
