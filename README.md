@@ -23,6 +23,6 @@ A selection template window pops up. Fill the Base Currency in Column 1 (e.g., U
 
 References:
 
-https://finpricing.com/lib/EqConvertible.html
+https://finpricing.com/knowledge.html
 
 
